@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/hamiltongabriel/go-jest.git",
   "author": "Hamilton Gabriel <gabrielzinho.gabriel2@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
 }
